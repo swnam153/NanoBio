@@ -79,3 +79,18 @@ Pacian Sung-Wook Nam
 
 
 
+
+## iOrganoAssay v1.0.0
+
+Initial release of iOrganoAssay — an R-based application for organoid microscopy image dataset management and visualization.
+
+### Files
+
+- `iOrganoAssay App.R` — Main analysis script (App interface)
+- `README.md` — Usage guide
+
+### Data Repository
+
+Dataset available at Zenodo: https://doi.org/10.5281/zenodo.18627307
+
+
